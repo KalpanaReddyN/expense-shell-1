@@ -20,7 +20,6 @@ VALIDATE(){
     fi
 }
 
-
 check_root(){
     if [ $USERID -ne 0 ]
     then
